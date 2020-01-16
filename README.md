@@ -1,2 +1,2 @@
-Practicals of WCMC practical list:
+Practicals of Android Apps as in WCMC practical list
 @CHARUSAT
